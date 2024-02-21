@@ -1,7 +1,7 @@
 # reinforcement-learning
 Repo for Reinforcement Learning Lab Activities
 
-# Week 3
+## Week 3
 
 Defining the Environment
 Environment is a situation in which an agent is present or surrounded by.
@@ -11,7 +11,7 @@ sim(agent,env);
 
 
 
-# Week 4
+## Week 4
 
 In this lab we explored MDP with a Q Learning Agent
 MDP is Markov Decision Process
